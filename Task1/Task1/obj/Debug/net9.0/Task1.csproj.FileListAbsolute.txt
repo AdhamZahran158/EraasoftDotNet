@@ -1,0 +1,14 @@
+E:\.Net Eraasoft\Tasks\Task1\Task1\bin\Debug\net9.0\Task1.exe
+E:\.Net Eraasoft\Tasks\Task1\Task1\bin\Debug\net9.0\Task1.deps.json
+E:\.Net Eraasoft\Tasks\Task1\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+E:\.Net Eraasoft\Tasks\Task1\Task1\bin\Debug\net9.0\Task1.dll
+E:\.Net Eraasoft\Tasks\Task1\Task1\bin\Debug\net9.0\Task1.pdb
+E:\.Net Eraasoft\Tasks\Task1\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Eraasoft\Tasks\Task1\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+E:\.Net Eraasoft\Tasks\Task1\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+E:\.Net Eraasoft\Tasks\Task1\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+E:\.Net Eraasoft\Tasks\Task1\Task1\obj\Debug\net9.0\Task1.dll
+E:\.Net Eraasoft\Tasks\Task1\Task1\obj\Debug\net9.0\refint\Task1.dll
+E:\.Net Eraasoft\Tasks\Task1\Task1\obj\Debug\net9.0\Task1.pdb
+E:\.Net Eraasoft\Tasks\Task1\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+E:\.Net Eraasoft\Tasks\Task1\Task1\obj\Debug\net9.0\ref\Task1.dll
