@@ -1,0 +1,14 @@
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\bin\Debug\net9.0\Task3_Pt2.exe
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\bin\Debug\net9.0\Task3_Pt2.deps.json
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\bin\Debug\net9.0\Task3_Pt2.runtimeconfig.json
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\bin\Debug\net9.0\Task3_Pt2.dll
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\bin\Debug\net9.0\Task3_Pt2.pdb
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\obj\Debug\net9.0\Task3_Pt2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\obj\Debug\net9.0\Task3_Pt2.AssemblyInfoInputs.cache
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\obj\Debug\net9.0\Task3_Pt2.AssemblyInfo.cs
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\obj\Debug\net9.0\Task3_Pt2.csproj.CoreCompileInputs.cache
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\obj\Debug\net9.0\Task3_Pt2.dll
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\obj\Debug\net9.0\refint\Task3_Pt2.dll
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\obj\Debug\net9.0\Task3_Pt2.pdb
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\obj\Debug\net9.0\Task3_Pt2.genruntimeconfig.cache
+E:\.Net Eraasoft\Tasks\Task3_Pt2\Task3_Pt2\obj\Debug\net9.0\ref\Task3_Pt2.dll
