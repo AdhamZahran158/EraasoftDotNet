@@ -1,0 +1,14 @@
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\bin\Debug\net9.0\Task4_Search.exe
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\bin\Debug\net9.0\Task4_Search.deps.json
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\bin\Debug\net9.0\Task4_Search.runtimeconfig.json
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\bin\Debug\net9.0\Task4_Search.dll
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\bin\Debug\net9.0\Task4_Search.pdb
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\obj\Debug\net9.0\Task4_Search.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\obj\Debug\net9.0\Task4_Search.AssemblyInfoInputs.cache
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\obj\Debug\net9.0\Task4_Search.AssemblyInfo.cs
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\obj\Debug\net9.0\Task4_Search.csproj.CoreCompileInputs.cache
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\obj\Debug\net9.0\Task4_Search.dll
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\obj\Debug\net9.0\refint\Task4_Search.dll
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\obj\Debug\net9.0\Task4_Search.pdb
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\obj\Debug\net9.0\Task4_Search.genruntimeconfig.cache
+E:\.Net Eraasoft\Tasks\Task4_Search\Task4_Search\obj\Debug\net9.0\ref\Task4_Search.dll
