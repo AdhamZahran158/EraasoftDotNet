@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\Migrations\\20251007005854_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task9_Pt.2\\Migrations\\20251007005854_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|e:\\.net eraasoft\\tasks\\task9_pt.2\\task9_pt.2\\p02_salesdatabase.data\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|solutionrelative:task9_pt.2\\p02_salesdatabase.data\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|e:\\.net eraasoft\\tasks\\task9_pt.2\\task9_pt.2\\p02_salesdatabase.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|solutionrelative:task9_pt.2\\p02_salesdatabase.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|e:\\.net eraasoft\\tasks\\task9_pt.2\\task9_pt.2\\p02_salesdatabase.models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|solutionrelative:task9_pt.2\\p02_salesdatabase.models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|e:\\.net eraasoft\\tasks\\task9_pt.2\\task9_pt.2\\p02_salesdatabase.models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|solutionrelative:task9_pt.2\\p02_salesdatabase.models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|e:\\.net eraasoft\\tasks\\task9_pt.2\\task9_pt.2\\p02_salesdatabase.models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|solutionrelative:task9_pt.2\\p02_salesdatabase.models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|e:\\.net eraasoft\\tasks\\task9_pt.2\\task9_pt.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282F4904-AEAD-46E9-A760-652E9CD0B4F7}|Task9_Pt.2\\Task9_Pt.2.csproj|solutionrelative:task9_pt.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251007005854_InitialCreate.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\Migrations\\20251007005854_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Task9_Pt.2\\Migrations\\20251007005854_InitialCreate.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\Migrations\\20251007005854_InitialCreate.cs",
+              "RelativeToolTip": "Task9_Pt.2\\Migrations\\20251007005854_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:58:55.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\P02_SalesDatabase.Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Task9_Pt.2\\P02_SalesDatabase.Models\\Sale.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\P02_SalesDatabase.Models\\Sale.cs",
+              "RelativeToolTip": "Task9_Pt.2\\P02_SalesDatabase.Models\\Sale.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:03:41.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Store.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\P02_SalesDatabase.Models\\Store.cs",
+              "RelativeDocumentMoniker": "Task9_Pt.2\\P02_SalesDatabase.Models\\Store.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\P02_SalesDatabase.Models\\Store.cs",
+              "RelativeToolTip": "Task9_Pt.2\\P02_SalesDatabase.Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:02:05.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\P02_SalesDatabase.Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Task9_Pt.2\\P02_SalesDatabase.Models\\Customer.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\P02_SalesDatabase.Models\\Customer.cs",
+              "RelativeToolTip": "Task9_Pt.2\\P02_SalesDatabase.Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:57:32.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\P02_SalesDatabase.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Task9_Pt.2\\P02_SalesDatabase.Models\\Product.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\P02_SalesDatabase.Models\\Product.cs",
+              "RelativeToolTip": "Task9_Pt.2\\P02_SalesDatabase.Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:54:03.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesContext.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\P02_SalesDatabase.Data\\SalesContext.cs",
+              "RelativeDocumentMoniker": "Task9_Pt.2\\P02_SalesDatabase.Data\\SalesContext.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\P02_SalesDatabase.Data\\SalesContext.cs",
+              "RelativeToolTip": "Task9_Pt.2\\P02_SalesDatabase.Data\\SalesContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:48:47.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\Program.cs",
+              "RelativeDocumentMoniker": "Task9_Pt.2\\Program.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9_Pt.2\\Task9_Pt.2\\Program.cs",
+              "RelativeToolTip": "Task9_Pt.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:44:52.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

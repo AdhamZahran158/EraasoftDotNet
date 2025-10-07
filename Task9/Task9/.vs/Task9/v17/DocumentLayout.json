@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net Eraasoft\\Tasks\\Task9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|e:\\.net eraasoft\\tasks\\task9\\task9\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|solutionrelative:task9\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|e:\\.net eraasoft\\tasks\\task9\\task9\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|solutionrelative:task9\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|e:\\.net eraasoft\\tasks\\task9\\task9\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|solutionrelative:task9\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|e:\\.net eraasoft\\tasks\\task9\\task9\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|solutionrelative:task9\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|e:\\.net eraasoft\\tasks\\task9\\task9\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|solutionrelative:task9\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|e:\\.net eraasoft\\tasks\\task9\\task9\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|solutionrelative:task9\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|e:\\.net eraasoft\\tasks\\task9\\task9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE44B4-9A03-48E6-938E-C880DBF165CC}|Task9\\Task9.csproj|solutionrelative:task9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeWork.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Models\\HomeWork.cs",
+              "RelativeDocumentMoniker": "Task9\\Models\\HomeWork.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Models\\HomeWork.cs",
+              "RelativeToolTip": "Task9\\Models\\HomeWork.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:58:04.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Task9\\Models\\Student.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Models\\Student.cs",
+              "RelativeToolTip": "Task9\\Models\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:26:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Task9\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "Task9\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:16:29.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Task9\\Models\\Course.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Models\\Course.cs",
+              "RelativeToolTip": "Task9\\Models\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:34:37.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "Task9\\Models\\Resource.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Models\\Resource.cs",
+              "RelativeToolTip": "Task9\\Models\\Resource.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:39:23.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "Task9\\Models\\StudentCourse.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "Task9\\Models\\StudentCourse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:00:24.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Program.cs",
+              "RelativeDocumentMoniker": "Task9\\Program.cs",
+              "ToolTip": "E:\\.Net Eraasoft\\Tasks\\Task9\\Task9\\Program.cs",
+              "RelativeToolTip": "Task9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:05:32.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
