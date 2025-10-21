@@ -1,0 +1,34 @@
+﻿@* @page *@
+@* @model Task11.Views.Doctor.ShowAppointmentsModel *@
+@* @model IEnumerable<appointmentsWithDoctors> *@
+@{
+    ViewData["Title"] = "Show Appointments";
+    int i = 1;
+}
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Patient Name</th>
+            <th scope="col">Doctor Name</th>
+            <th scope="col">Appointment Date</th>
+            <th scope="col">Appointment Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        @foreach(var item in Model)
+        {
+        <tr>
+            <th scope="row">@i</th>
+                <td>@item.patientName</td>
+                <td>@item.doctorName</td>
+                <td>@item.date</td>
+                <td>@item.time</td>
+        </tr>
+            <p hidden>@(i++)</p>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,86 @@
+﻿@using ContactDoctor.Models
+@model IEnumerable<Doctor>
+
+@{
+    ViewData["Title"] = "Book Appointment";
+}
+
+<h1>Book Appointment</h1>
+<!-- Filter Section -->
+<section class="py-3 filter-bar">
+    <div class="container">
+        <div class="row" style="background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;">
+            <div class="col-12">
+                <form>
+                    <div class="row">
+                        <!-- Doctor Name -->
+                        <div class="col-md-3">
+                            <input type="text" class="form-control" placeholder="Doctor Name" name="DocName" value="@ViewBag.tempName">
+                        </div>
+
+                        <!-- Specialization -->
+                        <div class="col-md-2">
+                            <select name="Specialization" class="form-control">
+                                <option value="@ViewBag.tempSpec">--Select Specialization--</option>
+
+                            @foreach (var item in ViewBag.Spec)
+                            {
+                                  <option value="@item.Specialization">@item.Specialization</option>
+                            }
+                                
+                            </select>
+                        </div>
+
+                       
+
+                        <!-- Submit Button -->
+                    </div>
+
+                    <div class="row mt-3">
+                        <div class="col-md-2">
+                            <button type="submit" class="btn btn-dark w-100">Filter</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Display Doctors -->
+<div class="row">
+    @foreach(var d in Model)
+    {
+        <input type="hidden" value="@d.Name" name="name"/>
+    <div class="col-md-4 mb-4">
+        <div class="card">
+            <img class="card-img" src="~/images/@d.Img" style="width: 100%; height: auto;" alt="Doctor Image">
+            <div class="card-body">
+                <h5 class="card-title">@d.Name</h5>
+                <p class="card-text">Specialization: @d.Specialization</p>
+                    <a asp-area="" asp-controller="Doctor" asp-action="CompleteAppointment" class="btn btn-primary" asp-route-id ="@d.Id">Book Appointment</a>
+            </div>
+        </div>
+    </div>
+        
+    }
+</div>
+
+<div class="row d-flex justify-content-center align-content-center">
+    <nav aria-label="Page navigation example">
+        <ul style="display: flex;justify-content: center;" class="pagination">
+            @if (ViewBag.currentPage > 1)
+            {
+                <li class="page-item"><a class="page-link" href="?page=@(ViewBag.currentPage - 1)">Previous</a></li>
+            }
+            @for (var i = 1; i <= ViewBag.numOfPages; i++)
+            {
+                <li class="page-item"><a class="page-link" href="?page=@i">@i</a></li>
+            }
+            @if (ViewBag.currentPage < ViewBag.numOfPages)
+            {
+                <li class="page-item"><a class="page-link" href="?page=@(ViewBag.currentPage + 1)">Next</a></li>
+            }
+        </ul>
+    </nav>
+</div>
