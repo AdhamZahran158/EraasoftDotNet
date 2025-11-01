@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Task12</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Task12.styles.css" asp-append-version="true" />
+    <style>
+        body {
+            min-height: 100vh;
+            display: flex;
+            background-color: #f8f9fa;
+        }
+
+        /* Small left nav bar */
+        .side-nav {
+            width: 100px;
+            background-color: #ffffff;
+            border-right: 1px solid #ddd;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top: 1rem;
+        }
+
+            .side-nav .brand {
+                font-weight: 600;
+                font-size: 1rem;
+                margin-bottom: 1rem;
+                color: #0d6efd;
+            }
+
+            .side-nav a {
+                text-decoration: none;
+                color: #333;
+                font-size: 0.9rem;
+                margin: 0.4rem 0;
+                padding: 0.4rem 0.6rem;
+                border-radius: 0.5rem;
+                transition: background-color 0.2s;
+            }
+
+                .side-nav a:hover,
+                .side-nav .active {
+                    background-color: #e9ecef;
+                }
+
+        /* Main content area */
+        .main-content {
+            flex-grow: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Left Small Nav -->
+    <div class="side-nav shadow-sm">
+        <div class="brand">Task12</div>
+        <a asp-area="" asp-controller="Home" asp-action="Index" class="active">Home</a>
+        <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+
+    <!-- Page Content -->
+    <div class="main-content">
+        <main role="main" class="text-center w-100">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/toaster-ui@1.1.5/dist/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
