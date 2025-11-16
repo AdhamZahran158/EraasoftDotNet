@@ -3,20 +3,34 @@
   "WorkspaceRootPath": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task13_v2\\task13_v2\\views\\movie\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\views\\movie\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./Task13_Cinema/True/SqlTable/dbo.movies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./Task13_Cinema/True/SqlTable/dbo.sub_images.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task13_v2\\task13_v2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task13_v2\\task13_v2\\views\\movie\\createmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\views\\movie\\createmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task13_v2\\task13_v2\\views\\movie\\editmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\views\\movie\\editmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task13_v2\\task13_v2\\viewmodels\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\viewmodels\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task13_v2\\task13_v2\\viewmodels\\editmovievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\viewmodels\\editmovievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task13_v2\\task13_v2\\views\\movie\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\views\\movie\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task13_v2\\task13_v2\\viewmodels\\movielistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\viewmodels\\movielistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task13_v2\\task13_v2\\views\\movie\\createmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\views\\movie\\createmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task13_v2\\task13_v2\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,63 +48,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.sub_images [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./Task13_Cinema/True/SqlTable/dbo.sub_images.sql",
+              "ToolTip": "dbo.sub_images [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-16T20:36:54.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "dbo.movies [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./Task13_Cinema/True/SqlTable/dbo.movies.sql",
+              "ToolTip": "dbo.movies [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-16T20:33:40.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditMovieVM.cs",
+              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\ViewModels\\EditMovieVM.cs",
+              "RelativeDocumentMoniker": "Task13_v2\\ViewModels\\EditMovieVM.cs",
+              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\ViewModels\\EditMovieVM.cs",
+              "RelativeToolTip": "Task13_v2\\ViewModels\\EditMovieVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:23:01.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieListVM.cs",
+              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\ViewModels\\MovieListVM.cs",
+              "RelativeDocumentMoniker": "Task13_v2\\ViewModels\\MovieListVM.cs",
+              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\ViewModels\\MovieListVM.cs",
+              "RelativeToolTip": "Task13_v2\\ViewModels\\MovieListVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:27:23.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditMovie.cshtml",
+              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Views\\Movie\\EditMovie.cshtml",
+              "RelativeDocumentMoniker": "Task13_v2\\Views\\Movie\\EditMovie.cshtml",
+              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Views\\Movie\\EditMovie.cshtml",
+              "RelativeToolTip": "Task13_v2\\Views\\Movie\\EditMovie.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T18:10:15.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MovieList.cshtml",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Views\\Movie\\MovieList.cshtml",
               "RelativeDocumentMoniker": "Task13_v2\\Views\\Movie\\MovieList.cshtml",
               "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Views\\Movie\\MovieList.cshtml",
               "RelativeToolTip": "Task13_v2\\Views\\Movie\\MovieList.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAADGAgAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwFwAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-15T20:37:36.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MovieVM.cs",
-              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\ViewModels\\MovieVM.cs",
-              "RelativeDocumentMoniker": "Task13_v2\\ViewModels\\MovieVM.cs",
-              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\ViewModels\\MovieVM.cs",
-              "RelativeToolTip": "Task13_v2\\ViewModels\\MovieVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T20:27:35.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MovieController.cs",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "Task13_v2\\Controllers\\MovieController.cs",
               "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Controllers\\MovieController.cs",
               "RelativeToolTip": "Task13_v2\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAwwIgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T20:25:36.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CreateMovie.cshtml",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Views\\Movie\\CreateMovie.cshtml",
               "RelativeDocumentMoniker": "Task13_v2\\Views\\Movie\\CreateMovie.cshtml",
               "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Views\\Movie\\CreateMovie.cshtml",
               "RelativeToolTip": "Task13_v2\\Views\\Movie\\CreateMovie.cshtml",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAwwKYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-15T20:21:07.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Task13_v2\\Views\\Shared\\_Layout.cshtml",
@@ -103,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\DataAccess\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Task13_v2\\DataAccess\\ApplicationDbContext.cs",
