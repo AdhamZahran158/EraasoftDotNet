@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X7RuRykUIDQ=",
+  "dgSpecHash": "Lx5EEu+SUxw=",
   "success": true,
-  "projectFilePath": "E:\\.Net Eraasoft\\Tasks\\Task13_v2\\Task13_v2\\Task13_v2.csproj",
+  "projectFilePath": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Task13_v2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

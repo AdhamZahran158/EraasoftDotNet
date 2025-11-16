@@ -15,4 +15,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\MoviesMainImg\" />
+    <Folder Include="wwwroot\Images\MoviesSubImg\" />
+  </ItemGroup>
+
 </Project>

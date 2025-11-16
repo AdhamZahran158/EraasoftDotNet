@@ -513,6 +513,20 @@ wwwroot\assets\video\beach.mp4
 wwwroot\assets\video\beach.webm
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Images\MoviesMainImg\e2271708-143e-4525-b8c6-abcaba8f8c2e.docx
+wwwroot\Images\MoviesMainImg\e55e3443-8e4d-4983-854f-3bd8d10cbdd3.docx
+wwwroot\Images\MoviesMainImg\fe525616-5182-4f78-bd55-115b4427039c.docx
+wwwroot\Images\MoviesSubImg\06b163d9-0609-4a17-aef0-82a04751c13c.pdf
+wwwroot\Images\MoviesSubImg\1db851bc-8c07-4294-9625-a893c3bb346d.docx
+wwwroot\Images\MoviesSubImg\261eed71-e6bf-4bf1-84bd-925eab083bef.pdf
+wwwroot\Images\MoviesSubImg\305375d8-2789-495e-afb9-75dc2c670059.docx
+wwwroot\Images\MoviesSubImg\6d113728-83a9-40e3-aa88-b33183649d97.pdf
+wwwroot\Images\MoviesSubImg\9628b51c-fe6a-40db-b853-5e11c32440c4.pdf
+wwwroot\Images\MoviesSubImg\b2501cd7-3508-4268-86f3-1b3a10aeae22.pdf
+wwwroot\Images\MoviesSubImg\db96aa33-b4b7-471e-8508-2e3514f2df10.pdf
+wwwroot\Images\MoviesSubImg\df8bf8b1-9fb5-4eeb-b02a-58e7718311d4.docx
+wwwroot\Images\MoviesSubImg\e6e729f6-ed9f-48c5-9d2e-c9c19dc82af5.docx
+wwwroot\Images\MoviesSubImg\f0b53233-ded7-4335-a5d6-356fcec0aeda.pdf
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -907,539 +921,539 @@ wwwroot\vendors\toastify-js\toastify.css
 wwwroot\vendors\toastify-js\toastify.js
 wwwroot\vendors\typed.js\typed.umd.js
 wwwroot\vendors\validator\validator.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\calendar.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\chat.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\billing.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\checkout.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\customer-details.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\customers.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\invoice.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\orders\order-details.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\orders\order-list.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\product\add-product.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\product\product-details.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\product\product-grid.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\product\product-list.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-commerce\shopping-cart.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-learning\course\course-details.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-learning\course\course-grid.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-learning\course\course-list.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-learning\course\create-a-course.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-learning\student-overview.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\e-learning\trainer-profile.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\email\compose.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\email\email-detail.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\email\inbox.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\events\create-an-event.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\events\event-detail.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\events\event-list.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\kanban.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\social\activity-log.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\social\feed.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\social\followers.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\social\notifications.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\support-desk\card-view.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\support-desk\contact-details.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\support-desk\contacts.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\support-desk\quick-links.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\support-desk\reports.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\support-desk\table-view.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\app\support-desk\tickets-preview.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\theme-rtl.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\theme-rtl.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\theme-rtl.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\theme-rtl.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\theme.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\theme.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\theme.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\theme.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\user-rtl.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\user-rtl.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\user-rtl.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\user-rtl.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\user.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\user.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\user.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\css\user.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\data\usa.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\data\world.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\bm.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\bouncing-ball.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\celebration.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\check-primary-light.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\heart.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\infinite-loop.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\loading-animation.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\loading-balls.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\loading-circle-scale.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\loading-square.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\loading.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\shopping-list.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\sleeping-404.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\ss.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\star-feedback.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\warning-light.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\crm\call.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\crm\email.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\crm\other.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\crm\social.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\favicons\browserconfig.xml
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\favicons\favicon.ico
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\favicons\manifest.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\favicons\site.webmanifest
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\arrows-h.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\chevron-up.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\cloud-download-.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\cloud-download.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\cloud-upload.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\discount.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\double-chevron-up.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\edit-alt-.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\edit-alt.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\folder-open-solid.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\folder-solid.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\free.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\icon-angle-right.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\left-arrow-from-left.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\moon.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\networking.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\nineDots.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\paragraph.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\play.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\pro.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\sent.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\shield.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\1.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\2.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\3.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\4.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\5.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\6.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\calendar.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\editing.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\image.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\location.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\paper-plane.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\startup.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\star_on.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\sun.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\target.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\triple-chevron-up.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\user-plus.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\icons\users.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\1.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\2.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\3.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\4.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\5.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\6.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\calendar.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\editing.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\image.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\location.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\paper-plane.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\startup.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\js\config.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\js\config.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\js\echart-example.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\js\echart-example.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\js\echarts-example.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\js\echarts-example.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\js\flatpickr.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\js\theme.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\js\theme.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\js\theme.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\assets\js\theme.min.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\css\site.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\favicon.ico
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\js\site.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation\dist\additional-methods.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation\LICENSE.md
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.min.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.slim.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.slim.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.slim.min.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\lib\jquery\LICENSE.txt
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\confirm-mail.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\forgot-password.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\lock-screen.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\login.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\logout.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\register.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\reset-password.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\confirm-mail.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\forgot-password.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\lock-screen.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\login.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\logout.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\register.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\reset-password.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\confirm-mail.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\forgot-password.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\lock-screen.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\login.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\logout.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\register.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\reset-password.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\authentication\wizard.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\errors\404.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\errors\500.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\faq\faq-accordion.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\faq\faq-alt.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\faq\faq-basic.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\landing.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\miscellaneous\associations.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\miscellaneous\invite-people.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\miscellaneous\privacy-policy.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\pricing\pricing-alt.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\pricing\pricing-default.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\starter.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\user\profile.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\pages\user\settings.html
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\anchorjs\anchor.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\bootstrap\bootstrap.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\bootstrap\bootstrap.min.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\chart\chart.umd.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\choices\base.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\choices\choices.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\choices\choices.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\countup\countUp.umd.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\d3\d3.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\datatables.net-dt\jquery.dataTables.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\datatables.net-fixedcolumns\dataTables.fixedColumns.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\datatables.net\dataTables.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\dayjs\dayjs.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\draggable\draggable.bundle.legacy.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\dropzone\dropzone-min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\dropzone\dropzone.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\echarts-countries-js\map\USA.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\echarts-countries-js\map\world.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\echarts-countries-js\world\world.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\echarts\echarts.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\emoji-mart\browser.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\flatpickr\bn.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\flatpickr\flatpickr.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\flatpickr\flatpickr.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\fontawesome\all.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\fullcalendar\index.global.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\glightbox\glightbox.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\glightbox\glightbox.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\imask\imask.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\inputmask\inputmask.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\ion-rangeslider\ion.rangeSlider.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\ion-rangeslider\ion.rangeSlider.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\is\is.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\jquery\jquery.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\leaflet.markercluster\MarkerCluster.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\leaflet.markercluster\MarkerCluster.Default.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\leaflet.tilelayer.colorfilter\leaflet-tilelayer-colorfilter.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\leaflet\leaflet.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\leaflet\leaflet.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\leaflet\leaflet.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\list.js\list.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\list.js\list.min.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\lodash\lodash.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\lottie\lottie.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\nouislider\nouislider.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\nouislider\nouislider.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\picmo\index.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\picmo\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\plyr\plyr.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\plyr\plyr.polyfilled.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\plyr\plyr.polyfilled.min.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\popper\popper.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\popper\popper.min.js.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\prism\prism-okaidia.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\prism\prism.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\rater-js\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\rater-js\rater-js.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\rater-js\star_0.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\rater-js\star_1.svg
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\rater-js\style.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\select2-bootstrap-5-theme\select2-bootstrap-5-theme.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\select2\select2.full.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\select2\select2.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\select2\select2.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\simplebar\simplebar.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\simplebar\simplebar.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\sortablejs\Sortable.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\swiper\swiper-bundle.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\swiper\swiper-bundle.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tiny-slider\tiny-slider.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tiny-slider\tiny-slider.css.map
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tiny-slider\tiny-slider.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\bower.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\CHANGELOG.md
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\composer.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\icons\default\icons.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\icons\default\icons.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\icons\default\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\license.md
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\models\dom\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\models\dom\model.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\models\dom\model.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\package.json
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\accordion\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\accordion\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\accordion\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\advlist\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\advlist\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\advlist\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\anchor\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\anchor\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\anchor\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autolink\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autolink\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autolink\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autoresize\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autoresize\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autoresize\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autosave\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autosave\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autosave\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\charmap\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\charmap\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\charmap\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\codesample\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\codesample\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\codesample\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\code\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\code\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\code\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\directionality\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\directionality\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\directionality\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\fullscreen\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ar.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\bg_BG.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ca.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\cs.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\da.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\de.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\el.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\en.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\es.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\eu.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fa.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fi.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fr_FR.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\he_IL.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hi.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hr.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hu_HU.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\id.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\it.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ja.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\kk.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ko_KR.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ms.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\nb_NO.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\nl.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pl.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pt_BR.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pt_PT.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ro.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ru.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sk.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sl_SI.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sv_SE.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\th_TH.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\tr.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\uk.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\vi.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\zh_CN.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\zh_TW.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\image\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\image\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\image\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\importcss\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\importcss\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\importcss\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\insertdatetime\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\link\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\link\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\link\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\lists\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\lists\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\lists\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\media\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\media\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\media\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\nonbreaking\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\pagebreak\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\preview\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\preview\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\preview\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\quickbars\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\quickbars\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\quickbars\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\save\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\save\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\save\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\searchreplace\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\table\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\table\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\table\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualblocks\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualchars\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualchars\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualchars\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\wordcount\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\wordcount\plugin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\wordcount\plugin.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\README.md
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\dark\content.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\dark\content.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\dark\content.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\default\content.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\default\content.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\default\content.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\document\content.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\document\content.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\document\content.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5\content.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5\content.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5\content.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\writer\content.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\writer\content.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\writer\content.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.min.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\themes\silver\index.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\themes\silver\theme.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\themes\silver\theme.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\tinymce.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\tinymce.min.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\toastify-js\toastify.css
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\toastify-js\toastify.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\typed.js\typed.umd.js
-E:\.Net Eraasoft\Tasks\Task13_v2\Task13_v2\wwwroot\vendors\validator\validator.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\validator\validator.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\typed.js\typed.umd.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\toastify-js\toastify.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\toastify-js\toastify.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\tinymce.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\tinymce.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\themes\silver\theme.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\themes\silver\theme.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\themes\silver\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\skin.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide\content.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\writer\content.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\writer\content.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\writer\content.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5\content.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5\content.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5\content.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\document\content.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\document\content.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\document\content.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\default\content.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\default\content.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\default\content.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\dark\content.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\dark\content.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\skins\content\dark\content.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\README.md
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\wordcount\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\wordcount\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\wordcount\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualchars\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualchars\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualchars\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\visualblocks\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\table\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\table\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\table\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\searchreplace\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\save\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\save\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\save\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\quickbars\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\quickbars\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\quickbars\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\preview\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\preview\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\preview\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\pagebreak\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\nonbreaking\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\media\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\media\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\media\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\lists\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\lists\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\lists\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\link\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\link\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\link\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\insertdatetime\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\importcss\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\importcss\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\importcss\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\image\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\image\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\image\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\zh_TW.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\zh_CN.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\vi.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\uk.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\tr.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\th_TH.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sv_SE.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sl_SI.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sk.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ru.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ro.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pt_PT.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pt_BR.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pl.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\nl.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\nb_NO.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ms.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ko_KR.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\kk.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ja.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\it.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\id.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hu_HU.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hr.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hi.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\he_IL.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fr_FR.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fi.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fa.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\eu.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\es.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\en.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\el.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\de.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\da.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\cs.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ca.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\bg_BG.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ar.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\help\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\fullscreen\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\emoticons\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\directionality\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\directionality\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\directionality\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\code\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\code\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\code\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\codesample\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\codesample\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\codesample\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\charmap\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\charmap\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\charmap\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autosave\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autosave\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autosave\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autoresize\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autoresize\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autoresize\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autolink\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autolink\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\autolink\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\anchor\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\anchor\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\anchor\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\advlist\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\advlist\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\advlist\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\accordion\plugin.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\accordion\plugin.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\plugins\accordion\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\package.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\models\dom\model.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\models\dom\model.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\models\dom\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\license.md
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\icons\default\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\icons\default\icons.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\icons\default\icons.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\composer.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\CHANGELOG.md
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tinymce\bower.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tiny-slider\tiny-slider.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tiny-slider\tiny-slider.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\tiny-slider\tiny-slider.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\swiper\swiper-bundle.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\swiper\swiper-bundle.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\sortablejs\Sortable.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\simplebar\simplebar.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\simplebar\simplebar.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\select2\select2.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\select2\select2.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\select2\select2.full.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\select2-bootstrap-5-theme\select2-bootstrap-5-theme.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\rater-js\style.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\rater-js\star_1.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\rater-js\star_0.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\rater-js\rater-js.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\rater-js\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\prism\prism.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\prism\prism-okaidia.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\popper\popper.min.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\popper\popper.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\plyr\plyr.polyfilled.min.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\plyr\plyr.polyfilled.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\plyr\plyr.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\picmo\index.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\picmo\index.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\nouislider\nouislider.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\nouislider\nouislider.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\lottie\lottie.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\lodash\lodash.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\list.js\list.min.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\list.js\list.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\leaflet\leaflet.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\leaflet\leaflet.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\leaflet\leaflet.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\leaflet.tilelayer.colorfilter\leaflet-tilelayer-colorfilter.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\leaflet.markercluster\MarkerCluster.Default.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\leaflet.markercluster\MarkerCluster.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\jquery\jquery.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\is\is.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\ion-rangeslider\ion.rangeSlider.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\ion-rangeslider\ion.rangeSlider.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\inputmask\inputmask.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\imask\imask.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\glightbox\glightbox.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\glightbox\glightbox.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\fullcalendar\index.global.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\fontawesome\all.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\flatpickr\flatpickr.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\flatpickr\flatpickr.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\flatpickr\bn.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\emoji-mart\browser.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\echarts\echarts.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\echarts-countries-js\world\world.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\echarts-countries-js\map\world.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\echarts-countries-js\map\USA.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\dropzone\dropzone.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\dropzone\dropzone-min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\draggable\draggable.bundle.legacy.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\dayjs\dayjs.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\datatables.net\dataTables.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\datatables.net-fixedcolumns\dataTables.fixedColumns.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\datatables.net-dt\jquery.dataTables.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\d3\d3.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\countup\countUp.umd.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\choices\choices.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\choices\choices.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\choices\base.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\chart\chart.umd.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\bootstrap\bootstrap.min.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\bootstrap\bootstrap.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\vendors\anchorjs\anchor.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\user\settings.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\user\profile.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\starter.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\pricing\pricing-default.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\pricing\pricing-alt.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\miscellaneous\privacy-policy.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\miscellaneous\invite-people.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\miscellaneous\associations.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\landing.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\faq\faq-basic.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\faq\faq-alt.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\faq\faq-accordion.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\errors\500.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\errors\404.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\wizard.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\reset-password.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\register.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\logout.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\login.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\lock-screen.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\forgot-password.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\split\confirm-mail.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\reset-password.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\register.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\logout.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\login.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\lock-screen.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\forgot-password.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\simple\confirm-mail.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\reset-password.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\register.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\logout.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\login.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\lock-screen.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\forgot-password.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\pages\authentication\card\confirm-mail.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery\LICENSE.txt
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.slim.min.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.slim.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.slim.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.min.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery\dist\jquery.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation\LICENSE.md
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation\dist\additional-methods.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\js\site.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\favicon.ico
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\css\site.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\js\theme.min.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\js\theme.min.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\js\theme.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\js\theme.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\js\flatpickr.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\js\echarts-example.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\js\echarts-example.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\js\echart-example.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\js\echart-example.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\js\config.js.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\js\config.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\startup.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\paper-plane.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\location.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\image.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\editing.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\calendar.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\6.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\5.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\4.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\3.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\2.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\illustrations\1.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\users.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\user-plus.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\triple-chevron-up.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\target.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\sun.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\star_on.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\startup.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\paper-plane.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\location.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\image.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\editing.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\calendar.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\6.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\5.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\4.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\3.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\2.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\spot-illustrations\1.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\shield.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\sent.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\pro.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\play.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\paragraph.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\nineDots.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\networking.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\moon.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\left-arrow-from-left.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\icon-angle-right.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\free.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\folder-solid.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\folder-open-solid.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\edit-alt.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\edit-alt-.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\double-chevron-up.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\discount.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\cloud-upload.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\cloud-download.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\cloud-download-.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\chevron-up.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\icons\arrows-h.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\favicons\site.webmanifest
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\favicons\manifest.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\favicons\favicon.ico
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\favicons\browserconfig.xml
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\crm\social.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\crm\other.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\crm\email.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\crm\call.svg
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\warning-light.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\star-feedback.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\ss.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\sleeping-404.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\shopping-list.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\loading.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\loading-square.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\loading-circle-scale.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\loading-balls.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\loading-animation.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\infinite-loop.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\heart.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\check-primary-light.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\celebration.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\bouncing-ball.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\img\animated-icons\bm.json
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\data\world.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\data\usa.js
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\user.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\user.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\user.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\user.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\user-rtl.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\user-rtl.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\user-rtl.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\user-rtl.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\theme.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\theme.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\theme.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\theme.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\theme-rtl.min.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\theme-rtl.min.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\theme-rtl.css.map
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\assets\css\theme-rtl.css
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\support-desk\tickets-preview.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\support-desk\table-view.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\support-desk\reports.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\support-desk\quick-links.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\support-desk\contacts.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\support-desk\contact-details.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\support-desk\card-view.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\social\notifications.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\social\followers.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\social\feed.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\social\activity-log.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\kanban.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\events\event-list.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\events\event-detail.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\events\create-an-event.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\email\inbox.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\email\email-detail.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\email\compose.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-learning\trainer-profile.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-learning\student-overview.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-learning\course\create-a-course.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-learning\course\course-list.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-learning\course\course-grid.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-learning\course\course-details.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\shopping-cart.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\product\product-list.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\product\product-grid.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\product\product-details.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\product\add-product.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\orders\order-list.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\orders\order-details.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\invoice.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\customers.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\customer-details.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\checkout.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\e-commerce\billing.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\chat.html
+E:\GitHub\EraasoftDotNet\Task13_v2\Task13_v2\wwwroot\app\calendar.html

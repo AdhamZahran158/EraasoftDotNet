@@ -4717,11 +4717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.Net Eraasoft\\Tasks\\Task13_v2\\Task13_v2\\Task13_v2.csproj",
+      "projectUniqueName": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Task13_v2.csproj",
       "projectName": "Task13_v2",
-      "projectPath": "E:\\.Net Eraasoft\\Tasks\\Task13_v2\\Task13_v2\\Task13_v2.csproj",
+      "projectPath": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\Task13_v2.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\.Net Eraasoft\\Tasks\\Task13_v2\\Task13_v2\\obj\\",
+      "outputPath": "E:\\GitHub\\EraasoftDotNet\\Task13_v2\\Task13_v2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\.Net Eraasoft\\SDKs\\NuGetPackages"
