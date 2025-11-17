@@ -96,7 +96,7 @@
                                                 </a>
 
                                                 <!-- Delete Button -->
-                                                <a class="btn btn-sm btn-danger d-lg-block" href="#!">
+                                                <a class="btn btn-sm btn-danger d-lg-block" asp-controller="Movie" asp-action="DeleteMovie" asp-route-id ="@item.MovieId">
                                                     <i class="fas fa-trash-alt"></i>
                                                     <span class="ms-2 d-none d-md-inline-block">Delete</span>
                                                 </a>

@@ -232,29 +232,63 @@
                                     <li class="nav-item">
                                         <a class="nav-link dropdown-indicator" href="#orders" data-bs-toggle="collapse" aria-expanded="false" aria-controls="e-commerce">
                                             <div class="d-flex align-items-center">
-                                                <span class="nav-link-text ps-1">Orders</span>
+                                                <span class="nav-link-text ps-1">Categories</span>
                                             </div>
                                         </a>
                                         <!-- more inner pages-->
                                         <ul class="nav collapse" id="orders">
                                             <li class="nav-item">
-                                                <a class="nav-link" href="~/app/e-commerce/orders/order-list.html">
+                                                <a class="nav-link" asp-controller="Categories" asp-action="CategoryList">
                                                     <div class="d-flex align-items-center">
-                                                        <span class="nav-link-text ps-1">Order list</span>
+                                                        <span class="nav-link-text ps-1">Category list</span>
                                                     </div>
                                                 </a>
                                                 <!-- more inner pages-->
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="~/app/e-commerce/orders/order-details.html">
+                                                <a class="nav-link" asp-controller="Categories" asp-action="AddCategory">
                                                     <div class="d-flex align-items-center">
-                                                        <span class="nav-link-text ps-1">Order details</span>
+                                                        <span class="nav-link-text ps-1">Add Category</span>
                                                     </div>
                                                 </a>
                                                 <!-- more inner pages-->
                                             </li>
                                         </ul>
                                     </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link dropdown-indicator"
+                                           href="#cinemaMenu"
+                                           role="button"
+                                           data-bs-toggle="collapse"
+                                           aria-expanded="false"
+                                           aria-controls="cinemaMenu">
+
+                                            <span class="nav-link-text ps-1">Cinema</span>
+                                        </a>
+
+                                        <ul class="nav collapse"
+                                            id="cinemaMenu"
+                                            data-bs-parent="#navbarVerticalCollapse">
+
+                                            <li class="nav-item">
+                                                <a class="nav-link" asp-controller="Cinema" asp-action="CinemaList">
+                                                    <span class="nav-link-text ps-1">Cinema list</span>
+                                                </a>
+                                            </li>
+
+                                            <li class="nav-item">
+                                                <a class="nav-link" asp-controller="Cinema" asp-action="AddCinema">
+                                                    <span class="nav-link-text ps-1">Add Cinema</span>
+                                                </a>
+                                            </li>
+
+                                        </ul>
+                                    </li>
+
+                                        </ul>
+                                    </li>
+
                                     <li class="nav-item">
                                         <a class="nav-link" href="~/app/e-commerce/customers.html">
                                             <div class="d-flex align-items-center">

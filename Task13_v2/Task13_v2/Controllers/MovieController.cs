@@ -165,5 +165,25 @@ namespace Task13.Controllers
 
             return RedirectToAction(nameof(MovieList));
         }
+
+        public IActionResult DeleteMovie(int id)
+        {
+            var reqMovie = db.movies.FirstOrDefault(x => x.Id == id);
+            var unwantedSubImgs = db.sub_images.Where(s => s.MovieId == id);
+            foreach (var item in unwantedSubImgs)
+            {
+                var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\Images\\MoviesSubImg", item.Img);
+                if(System.IO.File.Exists(filePath))
+                    System.IO.File.Delete(filePath);
+                db.sub_images.Remove(item);
+            }
+            db.SaveChanges();
+            var mainImgPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\Images\\MoviesMainImg", reqMovie.MainImg);
+            if(System.IO.File.Exists(mainImgPath))
+                System.IO.File.Delete(mainImgPath);
+            db.movies.Remove(reqMovie);
+            db.SaveChanges();
+            return RedirectToAction(nameof(MovieList));
+        }
     }
 }
