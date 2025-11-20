@@ -28,6 +28,18 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[E:/GitHub/EraasoftDotNet/Task13_v2/Task13_v2/Views/Actor/ActorList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcQWN0b3JMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GitHub/EraasoftDotNet/Task13_v2/Task13_v2/Views/Actor/AddActor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcQWRkQWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GitHub/EraasoftDotNet/Task13_v2/Task13_v2/Views/Actor/EditActor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRWRpdEFjdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/GitHub/EraasoftDotNet/Task13_v2/Task13_v2/Views/Categories/AddCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xBZGRDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -19,6 +19,7 @@
     <Folder Include="wwwroot\Images\MoviesMainImg\" />
     <Folder Include="wwwroot\Images\MoviesSubImg\" />
     <Folder Include="wwwroot\Images\CinemaImg\" />
+    <Folder Include="wwwroot\Images\ActorsImg\" />
   </ItemGroup>
 
 </Project>

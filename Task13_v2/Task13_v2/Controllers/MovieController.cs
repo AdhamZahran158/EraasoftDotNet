@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Task13.DataAccess;
+using Task13.Models;
 using Task13_v2.ViewModels;
 
 namespace Task13.Controllers
@@ -34,10 +35,11 @@ namespace Task13.Controllers
             var categories = db.categories.AsQueryable();
             var cinema = db.cinema.AsQueryable();
             ViewBag.cinema = cinema.AsEnumerable();
+            ViewBag.actors = db.actors.AsEnumerable();
             return View(categories.AsEnumerable());
         }
         [HttpPost]
-        public IActionResult CreateMovie(MovieVM movieVM, IFormFile? mainImg, List<IFormFile>? subImgs)
+        public IActionResult CreateMovie(MovieVM movieVM, IFormFile? mainImg, List<IFormFile>? subImgs, List<int> selectedActors)
         {
             if (movieVM != null)
             {
@@ -49,6 +51,7 @@ namespace Task13.Controllers
                     {
                         var stream = System.IO.File.Create(filePath);
                         mainImg.CopyTo(stream);
+                        stream.Close();
                     }
                     movieVM.MainImg = fileName;
                 }
@@ -74,6 +77,7 @@ namespace Task13.Controllers
                         {
                             var stream = System.IO.File.Create(filePath);    
                             item.CopyTo(stream);
+                            stream.Close();
                         }
                         db.sub_images.Add(new()
                         {
@@ -84,7 +88,15 @@ namespace Task13.Controllers
                         db.SaveChanges();
                     }
                 }
+                if (selectedActors is not null)
+                {
+                    var actors = db.actors.Where(a => selectedActors.Contains(a.Id)).ToList();
+                    newMovie.Entity.Actors = actors;
+                    db.SaveChanges();
+                }
             }
+
+            
             return RedirectToAction(nameof(MovieList));
         }
 
@@ -116,9 +128,13 @@ namespace Task13.Controllers
                 var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\Images\\MoviesMainImg", fileName);
                 var oldPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\Images\\MoviesMainImg", movie.MainImg);
 
-                if(!System.IO.File.Exists(filePath))
+                using(var stream = System.IO.File.Create(filePath))
                 {
-                    System.IO.File.Create(filePath);
+                    mainImg.CopyTo(stream);
+                }
+
+                if (System.IO.File.Exists(oldPath))
+                {
                     System.IO.File.Delete(oldPath);
                 }
                 movie.MainImg = fileName;

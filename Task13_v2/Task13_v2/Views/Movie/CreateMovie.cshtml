@@ -152,6 +152,44 @@
         </div>
     </div>
 
+    <!-- Assign Actors-->
+    <div class="row">
+    @foreach(var actor in ViewBag.actors)
+    {
+        <div class="col-md-4 mb-3">
+            <div class="card shadow-sm">
+                <div class="card-body d-flex align-items-center justify-content-between">
+
+                    <!-- Actor Image -->
+                    <div class="me-3">
+                        <img src="~/Images/ActorsImg/@actor.Img"
+                             class="img-thumbnail"
+                             style="width:70px; height:70px; object-fit:cover;" />
+                    </div>
+
+                    <!-- Actor Name -->
+                    <h5 class="mb-0 flex-grow-1">@actor.Name</h5>
+
+                    <!-- Assign Checkbox -->
+                    <div class="form-check ms-3">
+                        <input class="form-check-input"
+                               type="checkbox"
+                               name="selectedActors"
+                               value="@actor.Id"
+                               id="actor_@actor.Id">
+
+                        <label class="form-check-label" for="actor_@actor.Id">
+                            Assign
+                        </label>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    }
+    </div>
+
     <!-- Submit buttons -->
     <div class="card mt-3">
         <div class="card-body">
