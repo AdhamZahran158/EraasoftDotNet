@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\EraasoftDotNet\\Task14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task14\\task13_v2\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task14\\task13_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task14\\task13_v2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Program.cs",
+              "RelativeDocumentMoniker": "Task13_v2\\Program.cs",
+              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Program.cs",
+              "RelativeToolTip": "Task13_v2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:16:17.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Task13_v2\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Task13_v2\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:06:25.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Task13_v2\\Repositories\\Repository.cs",
+              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Task13_v2\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T19:43:13.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

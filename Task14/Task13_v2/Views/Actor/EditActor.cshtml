@@ -1,0 +1,170 @@
+﻿@model Actor
+<form method="post" enctype="multipart/form-data" action="/Actor/EditActor/@Model.Id">
+    <div class="row g-0">
+        <div class="col-lg-8 pe-lg-2">
+            <!-- Basic Information -->
+            <div class="card mb-3">
+                <div class="card-header bg-body-tertiary">
+                    <h6 class="mb-0">Basic information</h6>
+                </div>
+                <div class="card-body">
+                    <div class="row gx-2">
+                        <div class="col-12 mb-3">
+                            <label class="form-label" for="Name">Cinema name:</label>
+                            <input class="form-control" id="Name" name="Name" type="text" value="@Model.Name" required>
+                        </div>
+                        @* <div class="col-12 mb-3">
+                            <label class="form-label" for="Description">Movie Summary:</label>
+                            <textarea class="form-control" id="Description" name="Description" style="border-radius:5px"></textarea>
+                        </div> *@
+                    </div>
+                </div>
+            </div>
+
+            <!-- MainImage (Dropzone) -->
+            <div class="card mb-3">
+                <div class="card-header bg-body-tertiary">
+                    <h6 class="mb-0">Add main image</h6>
+                </div>
+                <div class="card-body">
+                    <div class="mb-3">
+                        <label for="formFile" class="form-label">Upload Image</label>
+                        <input class="form-control" type="file" id="Img" name="Img" required>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sub Images (Dropzone) -->
+            @* <div class="card mb-3">
+                <div class="card-header bg-body-tertiary">
+                    <h6 class="mb-0">Add Subimages</h6>
+                </div>
+                <div class="card-body">
+                    <div class="mb-3">
+                        <label for="formFile" class="form-label">Upload Images</label>
+                        <input class="form-control" type="file" name="subImgs" multiple>
+                    </div>
+                </div>
+            </div> *@
+
+            <!-- Details -->
+            @* <div class="card mb-3">
+                <div class="card-header bg-body-tertiary">
+                    <h6 class="mb-0">Details</h6>
+                </div>
+                <div class="card-body">
+                    <div class="row gx-2">
+                        <div class="col-12 mb-3">
+                            <label class="form-label" for="Date">Release Date:</label>
+                            <input class="form-control datetimepicker flatpickr-input" id="Date" name="Date" type="date" value="@Model.Movie.CreatedDate.Date" required>
+                        </div>
+                    </div>
+                </div>
+            </div> *@
+        </div>
+
+        <!-- Sidebar -->
+        <div class="col-lg-4 ps-lg-2">
+            <div class="sticky-sidebar">
+                @* <div class="card mb-3">
+                    <div class="card-header bg-body-tertiary">
+                        <h6 class="mb-0">Type</h6>
+                    </div>
+                    <div class="card-body">
+                        <div class="row gx-2">
+                            <div class="col-12 mb-3">
+                                <label class="form-label" for="CatId">Select category:</label>
+                                <select class="form-select" id="CatId" name="CatId" required>
+                                    <option value="@Model.Movie.CategoryId">Select a category</option>
+                                    @foreach (var item in Model.Categories)
+                                    {
+                                        <option value="@item.Id">@item.Name</option>
+                                    }
+
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div> *@
+
+                @* <div class="card mb-3">
+                    <div class="card-header bg-body-tertiary">
+                        <h6 class="mb-0">Type</h6>
+                    </div>
+                    <div class="card-body">
+                        <div class="row gx-2">
+                            <div class="col-12 mb-3">
+                                <label class="form-label">Select cinema:</label>
+                                <select class="form-select" name="CinemaId" required>
+                                    <option value="@Model.Movie.CinemaId">Select a Cinema</option>
+                                    @foreach (var item in Model.Cinema)
+                                    {
+                                        <option value="@item.Id">@item.Name</option>
+                                    }
+
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div> *@
+
+                @* <!-- Pricing -->
+                <div class="card mb-3">
+                    <div class="card-header bg-body-tertiary">
+                        <h6 class="mb-0">Pricing</h6>
+                    </div>
+                    <div class="card-body">
+                        <div class="row gx-2">
+                            <div class="col-8 mb-3">
+                                <label class="form-label" for="Price">Price:</label>
+                                <input class="form-control" id="Price" name="Price" type="text" value="@Model.Movie.Price" required>
+                            </div>
+                            <div class="col-4">
+                                <label class="form-label" for="PriceCurrency">Currency:</label>
+                                <select class="form-select" id="PriceCurrency" name="PriceCurrency">
+                                    <option value="USD">USD</option>
+                                    <option value="EUR">EUR</option>
+                                    <option value="GBP">GBP</option>
+                                    <option value="CAD">CAD</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div> *@
+
+                @* <!-- Stock Status -->
+                <div class="card mb-3">
+                    <div class="card-header bg-body-tertiary">
+                        <h6 class="mb-0">Stock status</h6>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-check">
+                            <input class="form-check-input p-2" type="radio" name="Status" value="true" id="in-stock">
+                            <label class="form-check-label fs-9 fw-normal text-700" for="in-stock">Available</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input p-2" type="radio" name="Status" value="false" id="unavailable">
+                            <label class="form-check-label fs-9 fw-normal text-700" for="unavailable">Unavailable</label>
+                        </div>
+                    </div>
+                </div> *@
+            </div>
+        </div>
+    </div>
+
+    <!-- Submit buttons -->
+    <div class="card mt-3">
+        <div class="card-body">
+            <div class="row justify-content-between align-items-center">
+                <div class="col-md">
+                    <h5 class="mb-2 mb-md-0">You're almost done!</h5>
+                </div>
+                <div class="col-auto">
+                    <button class="btn btn-link text-secondary p-0 me-3" type="reset">Discard</button>
+                    <button class="btn btn-primary" type="submit">Edit Actor</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
