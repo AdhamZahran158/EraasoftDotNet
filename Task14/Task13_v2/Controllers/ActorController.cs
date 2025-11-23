@@ -1,29 +1,34 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 using Task13.DataAccess;
 using Task13.Models;
+using Task13_v2.Repositories;
 
 namespace Task13_v2.Controllers
 {
     public class ActorController : Controller
     {
-        ApplicationDbContext db = new();
+        //ApplicationDbContext db = new();
+        Repository<Actor> actorRepo = new Repository<Actor>();
 
-        public IActionResult ActorList()
+        public async Task<IActionResult> ActorList()
         {
-            var actors = db.actors.AsQueryable();
+            //var actors = db.actors.AsQueryable();
+            var actors = await actorRepo.GetAsync(tracked: false);
             return View(actors);
         }
 
         [HttpGet]
-        public IActionResult AddActor()
+        public async Task<IActionResult> AddActor()
         {
-            var actors = db.actors.AsNoTracking().AsEnumerable();
+            //var actors = db.actors.AsNoTracking().AsEnumerable();
+            var actors = await actorRepo.GetAsync(tracked:false);
             return View(actors);
         }
 
         [HttpPost]
-        public IActionResult AddActor(Actor actor, IFormFile? Img)
+        public async Task<IActionResult> AddActor(Actor actor, IFormFile? Img)
         {
             string imgName = "";
             if (Img != null && Img.Length > 0)
@@ -36,26 +41,28 @@ namespace Task13_v2.Controllers
                     Img.CopyTo(stream);
                 }
             }
-            db.actors.Add(new Actor
+            await actorRepo.CreateAsync(new Actor
             {
                 Name = actor.Name,
                 Img = imgName
             });
-            db.SaveChanges();
+            await actorRepo.CommitAsync();
             return RedirectToAction(nameof(ActorList));
         }
 
         [HttpGet]
         public IActionResult EditActor(int id)
         {
-            var actor = db.actors.FirstOrDefault(a => a.Id == id);
+            //var actor = db.actors.FirstOrDefault(a => a.Id == id);
+            var actor = actorRepo.GetOneAsync(a => a.Id == id);
             return View(actor);
         }
 
         [HttpPost]
-        public IActionResult EditActor(Actor actor, IFormFile? Img, int id)
+        public async Task<IActionResult> EditActor(Actor actor, IFormFile? Img, int id)
         {
-            var specActor = db.actors.FirstOrDefault(a => a.Id == id);
+            //var specActor = db.actors.FirstOrDefault(a => a.Id == id);
+            var specActor = await actorRepo.GetOneAsync( a => a.Id == id);
             if(Img is not null && Img .Length > 0)
             {
                 var oldPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\Images\\ActorsImg", specActor.Img);
@@ -72,19 +79,23 @@ namespace Task13_v2.Controllers
 
             }
             specActor.Name = actor.Name;
-            db.SaveChanges();
+            //db.SaveChanges();
+            await actorRepo.CommitAsync();
 
             return RedirectToAction(nameof (ActorList));
         }
 
-        public IActionResult DeleteActor(int id)
+        public async Task<IActionResult> DeleteActor(int id)
         {
-            var delActor = db.actors.FirstOrDefault(a => a.Id == id);
+            //var delActor = db.actors.FirstOrDefault(a => a.Id == id);
+            var delActor = await actorRepo.GetOneAsync(a => a.Id == id);
             var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\Images\\ActorsImg", delActor.Img);
             if(System.IO.File.Exists(filePath))
                 System.IO.File.Delete(filePath);
-            db.actors.Remove(delActor);
-            db.SaveChanges();
+            //db.actors.Remove(delActor);
+            //db.SaveChanges();
+            actorRepo.Delete(delActor);
+            await actorRepo.CommitAsync();
 
             return RedirectToAction(nameof(ActorList));
         }

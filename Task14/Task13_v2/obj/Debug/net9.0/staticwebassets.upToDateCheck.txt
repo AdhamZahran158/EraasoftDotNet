@@ -939,7 +939,6 @@ wwwroot\vendors\typed.js\typed.umd.js
 wwwroot\vendors\validator\validator.min.js
 E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\app\calendar.html
 E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\app\chat.html
-E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\app\e-commerce\billing.html
 E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\app\e-commerce\checkout.html
 E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\app\e-commerce\customer-details.html
 E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\app\e-commerce\customers.html
@@ -1332,6 +1331,7 @@ E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\vendors\tinymce\plugins\help\j
 E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ko_KR.js
 E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ms.js
 E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\nb_NO.js
+E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\app\e-commerce\billing.html
 E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\nl.js
 E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pl.js
 E:\GitHub\EraasoftDotNet\Task14\Task13_v2\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pt_BR.js

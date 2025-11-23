@@ -10,9 +10,9 @@ namespace Task13_v2.Repositories
         protected ApplicationDbContext db;
         private DbSet<T> table;
 
-        public Repository(ApplicationDbContext db)
+        public Repository()
         {
-            this.db = db;
+            this.db = new ApplicationDbContext();
             table = db.Set<T>();
         }
 

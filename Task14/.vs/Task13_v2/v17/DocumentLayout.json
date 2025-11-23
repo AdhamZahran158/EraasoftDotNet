@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "E:\\GitHub\\EraasoftDotNet\\Task14\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task14\\task13_v2\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task14\\task13_v2\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task14\\task13_v2\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task14\\task13_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task14\\task13_v2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task14\\task13_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "Task13_v2\\Controllers\\CinemaController.cs",
+              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "Task13_v2\\Controllers\\CinemaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:12:31.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Controllers\\ActorController.cs",
+              "RelativeDocumentMoniker": "Task13_v2\\Controllers\\ActorController.cs",
+              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Controllers\\ActorController.cs",
+              "RelativeToolTip": "Task13_v2\\Controllers\\ActorController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowFoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:02:19.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Program.cs",
               "RelativeDocumentMoniker": "Task13_v2\\Program.cs",
@@ -34,31 +68,30 @@
               "RelativeToolTip": "Task13_v2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:16:17.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T23:16:17.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Task13_v2\\Controllers\\CategoriesController.cs",
               "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Task13_v2\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T23:06:25.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Repository.cs",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Task13_v2\\Repositories\\Repository.cs",
               "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task14\\Task13_v2\\Repositories\\Repository.cs",
               "RelativeToolTip": "Task13_v2\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T19:43:13.592Z",
               "EditorCaption": ""
