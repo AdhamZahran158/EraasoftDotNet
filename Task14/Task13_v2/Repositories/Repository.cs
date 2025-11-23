@@ -8,17 +8,18 @@ namespace Task13_v2.Repositories
     public class Repository<T> where T : class
     {
         protected ApplicationDbContext db;
-        private DbSet<T> table;
+        public DbSet<T> table { get;}
 
-        public Repository()
+        public Repository(ApplicationDbContext db)
         {
-            this.db = new ApplicationDbContext();
+            this.db = db;
             table = db.Set<T>();
         }
 
-        public async Task CreateAsync(T entity)
+        public async Task<T> CreateAsync(T entity)
         {
             await table.AddAsync(entity);
+            return entity;
         }
 
         public void Update(T entity)
@@ -52,6 +53,13 @@ namespace Task13_v2.Repositories
             }
             return await entities.ToListAsync();
         }
+
+        public async Task<IEnumerable<TResult>> JoinAsync<T2, TKey, TResult>(Repository<T2> otherRepo, Expression<Func<T, TKey>> outerKey, Expression<Func<T2, TKey>> innerKey, Expression<Func<T, T2, TResult>> result) where T2 : class
+
+        {
+            return await table.Join(otherRepo.table, outerKey, innerKey, result).ToListAsync();
+        }
+
 
         public async Task<T?> GetOneAsync(Expression<Func<T, bool>>? expression = null, Expression<Func<T, object>>[]? includes = null, bool tracked = true)
         {

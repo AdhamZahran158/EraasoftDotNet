@@ -9,8 +9,12 @@ namespace Task13.Controllers
 {
     public class CategoriesController : Controller
     {
-        //ApplicationDbContext db = new();
-        private readonly Repository<Category> categoryRepo = new Repository<Category>();
+        ApplicationDbContext db = new();
+        private Repository<Category> categoryRepo;
+        CategoriesController()
+        {
+            this.categoryRepo = new Repository<Category>(db);
+        }
         public async Task<IActionResult> CategoryList()
         {
             //var categories = db.categories.AsNoTracking().AsEnumerable();

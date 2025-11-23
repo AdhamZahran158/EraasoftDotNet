@@ -9,9 +9,12 @@ namespace Task13_v2.Controllers
 {
     public class ActorController : Controller
     {
-        //ApplicationDbContext db = new();
-        Repository<Actor> actorRepo = new Repository<Actor>();
-
+        ApplicationDbContext db = new();
+        Repository<Actor> actorRepo;
+        ActorController()
+        {
+            this.actorRepo = new Repository<Actor>(db);
+        }
         public async Task<IActionResult> ActorList()
         {
             //var actors = db.actors.AsQueryable();
