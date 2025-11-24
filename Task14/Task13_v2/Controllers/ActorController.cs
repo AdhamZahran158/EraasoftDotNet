@@ -4,16 +4,17 @@ using System.Threading.Tasks;
 using Task13.DataAccess;
 using Task13.Models;
 using Task13_v2.Repositories;
+using Task13_v2.Repositories.IRepositories;
 
 namespace Task13_v2.Controllers
 {
     public class ActorController : Controller
     {
-        ApplicationDbContext db = new();
-        Repository<Actor> actorRepo;
-        ActorController()
+        //ApplicationDbContext db = new();
+        IRepository<Actor> actorRepo;
+        public ActorController(IRepository<Actor> actorRepo)
         {
-            this.actorRepo = new Repository<Actor>(db);
+            this.actorRepo = actorRepo;
         }
         public async Task<IActionResult> ActorList()
         {
@@ -54,10 +55,10 @@ namespace Task13_v2.Controllers
         }
 
         [HttpGet]
-        public IActionResult EditActor(int id)
+        public async Task<IActionResult> EditActor(int id)
         {
             //var actor = db.actors.FirstOrDefault(a => a.Id == id);
-            var actor = actorRepo.GetOneAsync(a => a.Id == id);
+            var actor = await actorRepo.GetOneAsync(a => a.Id == id);
             return View(actor);
         }
 

@@ -4,16 +4,17 @@ using System.Threading.Tasks;
 using Task13.DataAccess;
 using Task13.Models;
 using Task13_v2.Repositories;
+using Task13_v2.Repositories.IRepositories;
 
 namespace Task13.Controllers
 {
     public class CategoriesController : Controller
     {
-        ApplicationDbContext db = new();
-        private Repository<Category> categoryRepo;
-        CategoriesController()
+        //ApplicationDbContext db = new();
+        private IRepository<Category> categoryRepo;
+        public CategoriesController(IRepository<Category> categoryRepo)
         {
-            this.categoryRepo = new Repository<Category>(db);
+            this.categoryRepo = categoryRepo;
         }
         public async Task<IActionResult> CategoryList()
         {

@@ -1,3 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using Task13.DataAccess;
+using Task13.Models;
+using Task13_v2.Repositories;
+using Task13_v2.Repositories.IRepositories;
+
 namespace Task13_v2
 {
     public class Program
@@ -8,6 +14,14 @@ namespace Task13_v2
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<ApplicationDbContext>();
+
+            builder.Services.AddScoped<IRepository<Category>, Repository<Category>>();
+            builder.Services.AddScoped<IRepository<Cinema>, Repository<Cinema>>();
+            builder.Services.AddScoped<IRepository<Movie>, Repository<Movie>>();
+            builder.Services.AddScoped<IRepository<Actor>, Repository<Actor>>();
+            builder.Services.AddScoped<IRepository<MovieSubImage>, Repository<MovieSubImage>>();
 
             var app = builder.Build();
 

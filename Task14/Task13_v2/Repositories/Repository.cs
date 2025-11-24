@@ -2,19 +2,22 @@
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 using Task13.DataAccess;
+using Task13_v2.Repositories.IRepositories;
 
 namespace Task13_v2.Repositories
 {
-    public class Repository<T> where T : class
+    public class Repository<T>:IRepository<T> where T : class
     {
-        protected ApplicationDbContext db;
-        public DbSet<T> table { get;}
+        private ApplicationDbContext db;
+        private DbSet<T> table;
 
         public Repository(ApplicationDbContext db)
         {
             this.db = db;
             table = db.Set<T>();
         }
+
+        public IQueryable<T> Table => table;
 
         public async Task<T> CreateAsync(T entity)
         {
@@ -54,10 +57,10 @@ namespace Task13_v2.Repositories
             return await entities.ToListAsync();
         }
 
-        public async Task<IEnumerable<TResult>> JoinAsync<T2, TKey, TResult>(Repository<T2> otherRepo, Expression<Func<T, TKey>> outerKey, Expression<Func<T2, TKey>> innerKey, Expression<Func<T, T2, TResult>> result) where T2 : class
+        public async Task<IEnumerable<TResult>> JoinAsync<T2, TKey, TResult>(IRepository<T2> otherRepo, Expression<Func<T, TKey>> outerKey, Expression<Func<T2, TKey>> innerKey, Expression<Func<T, T2, TResult>> result) where T2 : class
 
         {
-            return await table.Join(otherRepo.table, outerKey, innerKey, result).ToListAsync();
+            return await table.Join(otherRepo.Table, outerKey, innerKey, result).ToListAsync();
         }
 
 

@@ -4,26 +4,27 @@ using System.Threading.Tasks;
 using Task13.DataAccess;
 using Task13.Models;
 using Task13_v2.Repositories;
+using Task13_v2.Repositories.IRepositories;
 using Task13_v2.ViewModels;
 
 namespace Task13.Controllers
 {
     public class MovieController : Controller
     {
-        ApplicationDbContext db = new ApplicationDbContext();
-        Repository<Movie> movieRepo ;
-        Repository<Category> catRepo ;
-        Repository<Cinema> cinemaRepo;
-        Repository<Actor> actorRepo;
-        Repository<MovieSubImage> subImgRepo;
+        //ApplicationDbContext db = new ApplicationDbContext();
+        IRepository<Movie> movieRepo ;
+        IRepository<Category> catRepo ;
+        IRepository<Cinema> cinemaRepo;
+        IRepository<Actor> actorRepo;
+        IRepository<MovieSubImage> subImgRepo;
 
-        public MovieController()
+        public MovieController(IRepository<Movie> movieRepo, IRepository<Category> catRepo, IRepository<Cinema> cinemaRepo, IRepository<Actor> actorRepo, IRepository<MovieSubImage> subImgRepo)
         {
-            this.movieRepo = new(db);
-            this.catRepo = catRepo = new Repository<Category>(db);
-            this.cinemaRepo = cinemaRepo = new Repository<Cinema>(db);
-            this.actorRepo = actorRepo = new Repository<Actor>(db);
-            this.subImgRepo = subImgRepo = new Repository<MovieSubImage>(db);
+            this.movieRepo = movieRepo;
+            this.catRepo = catRepo;
+            this.cinemaRepo =  cinemaRepo;
+            this.actorRepo = actorRepo;
+            this.subImgRepo = subImgRepo;
         }
 
         public async Task<IActionResult> MovieList()
@@ -109,6 +110,7 @@ namespace Task13.Controllers
                     CreatedDate = movieVM.Date,
                     Status = movieVM.Status
                 });
+                await movieRepo.CommitAsync();
 
                 if (subImgs != null && subImgs.Count > 0)
                 {

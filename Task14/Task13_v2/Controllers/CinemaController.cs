@@ -3,16 +3,17 @@ using System.Threading.Tasks;
 using Task13.DataAccess;
 using Task13.Models;
 using Task13_v2.Repositories;
+using Task13_v2.Repositories.IRepositories;
 
 namespace Task13.Controllers
 {
     public class CinemaController : Controller
     {
-        ApplicationDbContext db = new();
-        Repository<Cinema> cinemaRepo;
-        public CinemaController()
+        //ApplicationDbContext db = new();
+        IRepository<Cinema> cinemaRepo;
+        public CinemaController(IRepository<Cinema> cinemaRepo)
         {
-            this.cinemaRepo = new(db);
+            this.cinemaRepo = cinemaRepo;
         }
 
         public async Task<IActionResult> CinemaList()
