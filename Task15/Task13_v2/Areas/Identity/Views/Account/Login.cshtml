@@ -1,0 +1,43 @@
+﻿@model Task13_v2.ViewModels.LoginVM
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+
+<h4>LoginVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserNameOrEmailOrPhoneNumber" class="control-label"></label>
+                <input asp-for="UserNameOrEmailOrPhoneNumber" class="form-control" />
+                <span asp-validation-for="UserNameOrEmailOrPhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RememberMe" class="control-label"></label>
+                <input type="checkbox" asp-for="RememberMe" class="form-control" />
+                <span asp-validation-for="RememberMe" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary mt-3" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@* @section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} *@

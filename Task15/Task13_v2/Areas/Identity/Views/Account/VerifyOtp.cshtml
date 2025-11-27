@@ -1,0 +1,33 @@
+﻿@model Task13_v2.ViewModels.VerifyOtpVM
+
+@{
+    ViewData["Title"] = "VerifyOtp";
+}
+
+<h1>VerifyOtp</h1>
+
+<h4>VerifyOtpVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="VerifyOtp">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Otp" class="control-label"></label>
+                <input asp-for="Otp" class="form-control" />
+                <span asp-validation-for="Otp" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3" align="center">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ForgotPassword">Back to Forgot Password</a>
+</div>
+
+@* @section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} *@
