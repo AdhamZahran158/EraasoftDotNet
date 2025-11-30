@@ -3,12 +3,31 @@
   "WorkspaceRootPath": "E:\\GitHub\\EraasoftDotNet\\Task15\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\areas\\identity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\areas\\identity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\areas\\identity\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\areas\\identity\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\areas\\identity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\areas\\identity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\viewmodels\\forgotpaswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\viewmodels\\forgotpaswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./Task13_Cinema/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\viewmodels\\resetpaswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\viewmodels\\resetpaswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\areas\\identity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\areas\\identity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\areas\\identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\areas\\identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\areas\\identity\\views\\account\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,32 +42,12 @@
       "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\areas\\identity\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\viewmodels\\resetpaswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\viewmodels\\resetpaswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\viewmodels\\verifyotpvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\viewmodels\\verifyotpvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\viewmodels\\forgotpaswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\viewmodels\\forgotpaswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\areas\\identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\areas\\identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\areas\\identity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|solutionrelative:task13_v2\\areas\\identity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DE57207-915E-4BC2-AE52-49D965A5F694}|Task13_v2\\Task13_v2.csproj|e:\\github\\eraasoftdotnet\\task15\\task13_v2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,17 +61,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./Task13_Cinema/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-29T23:30:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ResetPassword.cshtml",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
               "RelativeDocumentMoniker": "Task13_v2\\Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
               "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
               "RelativeToolTip": "Task13_v2\\Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-27T03:27:03.989Z",
               "EditorCaption": ""
@@ -80,32 +89,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "VerifyOtp.cshtml",
-              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\VerifyOtp.cshtml",
-              "RelativeDocumentMoniker": "Task13_v2\\Areas\\Identity\\Views\\Account\\VerifyOtp.cshtml",
-              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\VerifyOtp.cshtml",
-              "RelativeToolTip": "Task13_v2\\Areas\\Identity\\Views\\Account\\VerifyOtp.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T03:10:16.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ForgotPassword.cshtml",
-              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
-              "RelativeDocumentMoniker": "Task13_v2\\Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
-              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
-              "RelativeToolTip": "Task13_v2\\Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T02:33:51.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "ForgotPaswordVM.cs",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\ViewModels\\ForgotPaswordVM.cs",
               "RelativeDocumentMoniker": "Task13_v2\\ViewModels\\ForgotPaswordVM.cs",
@@ -118,46 +101,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VerifyOtpVM.cs",
-              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\ViewModels\\VerifyOtpVM.cs",
-              "RelativeDocumentMoniker": "Task13_v2\\ViewModels\\VerifyOtpVM.cs",
-              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\ViewModels\\VerifyOtpVM.cs",
-              "RelativeToolTip": "Task13_v2\\ViewModels\\VerifyOtpVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:27:21.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ResetPaswordVM.cs",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\ViewModels\\ResetPaswordVM.cs",
               "RelativeDocumentMoniker": "Task13_v2\\ViewModels\\ResetPaswordVM.cs",
               "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\ViewModels\\ResetPaswordVM.cs",
               "RelativeToolTip": "Task13_v2\\ViewModels\\ResetPaswordVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T02:27:03.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Task13_v2\\Areas\\Identity\\Views\\Account\\Login.cshtml",
               "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Task13_v2\\Areas\\Identity\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-26T01:00:36.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\ViewModels\\LoginVM.cs",
               "RelativeDocumentMoniker": "Task13_v2\\ViewModels\\LoginVM.cs",
@@ -165,25 +135,62 @@
               "RelativeToolTip": "Task13_v2\\ViewModels\\LoginVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T00:51:52.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T00:51:52.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Task13_v2\\Areas\\Identity\\Controllers\\AccountController.cs",
               "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Task13_v2\\Areas\\Identity\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJ4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAALYAAAAAAAAAAAAswL8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T23:51:01.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "VerifyOtp.cshtml",
+              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\VerifyOtp.cshtml",
+              "RelativeDocumentMoniker": "Task13_v2\\Areas\\Identity\\Views\\Account\\VerifyOtp.cshtml",
+              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\VerifyOtp.cshtml",
+              "RelativeToolTip": "Task13_v2\\Areas\\Identity\\Views\\Account\\VerifyOtp.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T03:10:16.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Task13_v2\\Areas\\Identity\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Task13_v2\\Areas\\Identity\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T23:52:44.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Task13_v2\\Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Task13_v2\\Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T02:33:51.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Program.cs",
               "RelativeDocumentMoniker": "Task13_v2\\Program.cs",
@@ -191,25 +198,11 @@
               "RelativeToolTip": "Task13_v2\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T22:34:53.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T22:34:53.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Task13_v2\\Areas\\Identity\\Views\\Account\\Register.cshtml",
-              "ToolTip": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\Areas\\Identity\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Task13_v2\\Areas\\Identity\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-25T23:52:44.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "E:\\GitHub\\EraasoftDotNet\\Task15\\Task13_v2\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "Task13_v2\\ViewModels\\RegisterVM.cs",
@@ -217,8 +210,7 @@
               "RelativeToolTip": "Task13_v2\\ViewModels\\RegisterVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T22:41:21.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T22:41:21.918Z"
             },
             {
               "$type": "Document",
@@ -230,8 +222,7 @@
               "RelativeToolTip": "Task13_v2\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T21:01:14.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T21:01:14.675Z"
             }
           ]
         }

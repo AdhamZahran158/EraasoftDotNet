@@ -11,5 +11,6 @@ namespace Task13_v2.ViewModels
 
         [Required, DataType(DataType.Password)]
         public string ConfirmPassword { get; set; }
+        public string UserId { get; set; }
     }
 }

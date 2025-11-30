@@ -6,6 +6,7 @@ using Task13_v2.ViewModels;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Task13_v2.Repositories.IRepositories;
+using Microsoft.VisualBasic;
 
 namespace Task13_v2.Areas.Identity.Controllers
 {
@@ -60,12 +61,19 @@ namespace Task13_v2.Areas.Identity.Controllers
             ///////// Send Confirmation Email \\\\\\\\\\
             
             var confEmailToken = await _userManager.GenerateEmailConfirmationTokenAsync(newUser);
-            var confLink = Url.Action("Confirm","Account",new {area = "Identity", confEmailToken, newUser.Id}, Request.Scheme);
-            await _emailSender.SendEmailAsync(newUser.Email, "Email Confirmation", $"<h1> To Approve Your Email, Please Click <a href='{confLink}'> here</a></h1>");
+            var confLink = Url.Action("Confirm", "Account",
+                new
+                {
+                    area = "Identity",
+                    id = newUser.Id,
+                    token = confEmailToken
+                },
+                Request.Scheme
+            ); await _emailSender.SendEmailAsync(newUser.Email, "Email Confirmation", $"<h1> To Approve Your Email, Please Click <a href='{confLink}'> here</a></h1>");
             return RedirectToAction(nameof(Login));
         }
-        [HttpPost]
-        public async Task<IActionResult> Confirm(string token, string id)
+        [HttpGet]
+        public async Task<IActionResult> Confirm(string id, string token)
         {
             var user = await _userManager.FindByIdAsync(id);
             if (user == null)
@@ -153,12 +161,52 @@ namespace Task13_v2.Areas.Identity.Controllers
                 ModelState.AddModelError("Otp", "invalid OTP");
                 return View(verifyOtpVM);
             }
-            return RedirectToAction(nameof(ResetPassword));
+            var user = await _userManager.FindByIdAsync(otp.UserId);
+            if(user == null)
+            {
+                ModelState.AddModelError("Otp", "invalid OTP");
+                return View(verifyOtpVM);
+            }
+            otp.IsValid = false;
+            await _otpRepository.CommitAsync();
+            return RedirectToAction(nameof(ResetPassword), "Account", new {area = "Identity" , id = user.Id});
         }
         [HttpGet]
-        public IActionResult ResetPassword()
+        public IActionResult ResetPassword(string id)
         {
-            return View();
+            return View(new ResetPaswordVM
+            {
+                UserId = id
+            });
+        }
+        [HttpPost]
+        public async Task<IActionResult> ResetPassword(ResetPaswordVM resetPaswordVM)
+        {
+            if (!ModelState.IsValid) {
+                return View(resetPaswordVM); 
+            }
+            //if(resetPaswordVM.NewPassword != resetPaswordVM.ConfirmPassword)
+            //{
+            //    ModelState.AddModelError("ConfirmPassword", "Passwords Do not Match");
+            //    return View(resetPaswordVM);
+            //}
+            var user = await _userManager.FindByIdAsync(resetPaswordVM.UserId);
+            if (user == null)
+                return NotFound();
+
+            var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+            var result = await _userManager.ResetPasswordAsync(user, token, resetPaswordVM.NewPassword);
+
+            
+            if(!result.Succeeded)
+            {
+                foreach (var item in result.Errors)
+                {
+                    ModelState.AddModelError(string.Empty, item.Code);
+                }
+                return View(resetPaswordVM);
+            }
+            return RedirectToAction(nameof(Login));
         }
     }
 }
